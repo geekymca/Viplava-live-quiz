@@ -1,0 +1,8 @@
+{
+  "name": "VIPLAVA 2026 — Srila Prabhupada ISKCON Quiz",
+  "description": "Official live interactive quiz platform celebrating the life, teachings, and legacy of His Divine Grace A.C. Bhaktivedanta Swami Prabhupada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

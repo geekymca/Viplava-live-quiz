@@ -1,0 +1,751 @@
+[
+  {
+    "roomCode": "Q-HB9G",
+    "quizTitle": "Code & Tech Titans: AI, Computing & Innovation",
+    "phase": "lobby",
+    "currentQuestionIndex": 0,
+    "playersCount": 0,
+    "answersCount": 0,
+    "savedAt": 1792148084046,
+    "reason": "room_created",
+    "topLeaderboard": []
+  },
+  {
+    "roomCode": "Q-HB9G",
+    "quizTitle": "Code & Tech Titans: AI, Computing & Innovation",
+    "phase": "lobby",
+    "currentQuestionIndex": 0,
+    "playersCount": 500,
+    "answersCount": 0,
+    "savedAt": 1792148089105,
+    "reason": "simulated_500_bots",
+    "topLeaderboard": [
+      {
+        "id": "bot_1792148089096_0_pbzjd",
+        "nickname": "CyberAce97",
+        "avatar": "🐯",
+        "score": 0,
+        "rank": 1,
+        "prevRank": 1,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_1_1bmej",
+        "nickname": "CyberAce23",
+        "avatar": "🦄",
+        "score": 0,
+        "rank": 2,
+        "prevRank": 2,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_2_67whe",
+        "nickname": "ZenithTitan54",
+        "avatar": "🦉",
+        "score": 0,
+        "rank": 3,
+        "prevRank": 3,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_3_8jevx",
+        "nickname": "NovaBot41",
+        "avatar": "🤖",
+        "score": 0,
+        "rank": 4,
+        "prevRank": 4,
+        "streak": 2,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_4_cedzk",
+        "nickname": "CyberSpark97",
+        "avatar": "🐼",
+        "score": 0,
+        "rank": 5,
+        "prevRank": 5,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_5_41pxd",
+        "nickname": "NovaFox15",
+        "avatar": "🐯",
+        "score": 0,
+        "rank": 6,
+        "prevRank": 6,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_6_55fs7",
+        "nickname": "NovaWolf18",
+        "avatar": "🐯",
+        "score": 0,
+        "rank": 7,
+        "prevRank": 7,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_7_uirik",
+        "nickname": "TurboFox81",
+        "avatar": "🦄",
+        "score": 0,
+        "rank": 8,
+        "prevRank": 8,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_8_j0i9z",
+        "nickname": "NeonViper19",
+        "avatar": "🐉",
+        "score": 0,
+        "rank": 9,
+        "prevRank": 9,
+        "streak": 1,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_9_zzdtv",
+        "nickname": "ApexTitan77",
+        "avatar": "🦊",
+        "score": 0,
+        "rank": 10,
+        "prevRank": 10,
+        "streak": 0,
+        "lastPointsEarned": 0
+      }
+    ]
+  },
+  {
+    "roomCode": "Q-HB9G",
+    "quizTitle": "Code & Tech Titans: AI, Computing & Innovation",
+    "phase": "question",
+    "currentQuestionIndex": 0,
+    "playersCount": 500,
+    "answersCount": 25,
+    "savedAt": 1792148095341,
+    "reason": "periodic_active_ticker",
+    "topLeaderboard": [
+      {
+        "id": "bot_1792148089096_0_pbzjd",
+        "nickname": "CyberAce97",
+        "avatar": "🐯",
+        "score": 0,
+        "rank": 1,
+        "prevRank": 1,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_1_1bmej",
+        "nickname": "CyberAce23",
+        "avatar": "🦄",
+        "score": 0,
+        "rank": 2,
+        "prevRank": 2,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_2_67whe",
+        "nickname": "ZenithTitan54",
+        "avatar": "🦉",
+        "score": 0,
+        "rank": 3,
+        "prevRank": 3,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_3_8jevx",
+        "nickname": "NovaBot41",
+        "avatar": "🤖",
+        "score": 0,
+        "rank": 4,
+        "prevRank": 4,
+        "streak": 2,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_4_cedzk",
+        "nickname": "CyberSpark97",
+        "avatar": "🐼",
+        "score": 0,
+        "rank": 5,
+        "prevRank": 5,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_5_41pxd",
+        "nickname": "NovaFox15",
+        "avatar": "🐯",
+        "score": 0,
+        "rank": 6,
+        "prevRank": 6,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_6_55fs7",
+        "nickname": "NovaWolf18",
+        "avatar": "🐯",
+        "score": 0,
+        "rank": 7,
+        "prevRank": 7,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_7_uirik",
+        "nickname": "TurboFox81",
+        "avatar": "🦄",
+        "score": 0,
+        "rank": 8,
+        "prevRank": 8,
+        "streak": 0,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_8_j0i9z",
+        "nickname": "NeonViper19",
+        "avatar": "🐉",
+        "score": 0,
+        "rank": 9,
+        "prevRank": 9,
+        "streak": 1,
+        "lastPointsEarned": 0
+      },
+      {
+        "id": "bot_1792148089096_9_zzdtv",
+        "nickname": "ApexTitan77",
+        "avatar": "🦊",
+        "score": 0,
+        "rank": 10,
+        "prevRank": 10,
+        "streak": 0,
+        "lastPointsEarned": 0
+      }
+    ]
+  },
+  {
+    "roomCode": "Q-HB9G",
+    "quizTitle": "Code & Tech Titans: AI, Computing & Innovation",
+    "phase": "reveal",
+    "currentQuestionIndex": 0,
+    "playersCount": 500,
+    "answersCount": 191,
+    "savedAt": 1792148099180,
+    "reason": "reveal_question_1",
+    "topLeaderboard": [
+      {
+        "id": "bot_1792148089097_228_njszy",
+        "nickname": "NovaByte66",
+        "avatar": "🐼",
+        "score": 960,
+        "rank": 1,
+        "prevRank": 229,
+        "streak": 1,
+        "lastPointsEarned": 960,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_348_d0eas",
+        "nickname": "HyperSpark33",
+        "avatar": "🦉",
+        "score": 959,
+        "rank": 2,
+        "prevRank": 349,
+        "streak": 3,
+        "lastPointsEarned": 959,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_374_txe1n",
+        "nickname": "QuantumByte28",
+        "avatar": "⚡",
+        "score": 958,
+        "rank": 3,
+        "prevRank": 375,
+        "streak": 2,
+        "lastPointsEarned": 958,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_65_9f3qx",
+        "nickname": "HyperRider45",
+        "avatar": "🤖",
+        "score": 957,
+        "rank": 4,
+        "prevRank": 66,
+        "streak": 1,
+        "lastPointsEarned": 957,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_60_izht0",
+        "nickname": "QuantumAce95",
+        "avatar": "🦁",
+        "score": 955,
+        "rank": 5,
+        "prevRank": 61,
+        "streak": 1,
+        "lastPointsEarned": 955,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_459_ak7ty",
+        "nickname": "PixelTitan24",
+        "avatar": "👾",
+        "score": 955,
+        "rank": 6,
+        "prevRank": 460,
+        "streak": 1,
+        "lastPointsEarned": 955,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_148_ixfst",
+        "nickname": "TurboTitan32",
+        "avatar": "⚡",
+        "score": 954,
+        "rank": 7,
+        "prevRank": 149,
+        "streak": 1,
+        "lastPointsEarned": 954,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_301_f5x67",
+        "nickname": "TurboBot56",
+        "avatar": "🐼",
+        "score": 954,
+        "rank": 8,
+        "prevRank": 302,
+        "streak": 1,
+        "lastPointsEarned": 954,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_413_cfezr",
+        "nickname": "ZenithRider77",
+        "avatar": "🐼",
+        "score": 953,
+        "rank": 9,
+        "prevRank": 414,
+        "streak": 3,
+        "lastPointsEarned": 953,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_189_1q042",
+        "nickname": "NovaRider43",
+        "avatar": "🦁",
+        "score": 952,
+        "rank": 10,
+        "prevRank": 190,
+        "streak": 1,
+        "lastPointsEarned": 952,
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "roomCode": "Q-HB9G",
+    "quizTitle": "Code & Tech Titans: AI, Computing & Innovation",
+    "phase": "reveal",
+    "currentQuestionIndex": 0,
+    "playersCount": 500,
+    "answersCount": 191,
+    "savedAt": 1792148100341,
+    "reason": "periodic_active_ticker",
+    "topLeaderboard": [
+      {
+        "id": "bot_1792148089097_228_njszy",
+        "nickname": "NovaByte66",
+        "avatar": "🐼",
+        "score": 960,
+        "rank": 1,
+        "prevRank": 229,
+        "streak": 1,
+        "lastPointsEarned": 960,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_348_d0eas",
+        "nickname": "HyperSpark33",
+        "avatar": "🦉",
+        "score": 959,
+        "rank": 2,
+        "prevRank": 349,
+        "streak": 3,
+        "lastPointsEarned": 959,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_374_txe1n",
+        "nickname": "QuantumByte28",
+        "avatar": "⚡",
+        "score": 958,
+        "rank": 3,
+        "prevRank": 375,
+        "streak": 2,
+        "lastPointsEarned": 958,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_65_9f3qx",
+        "nickname": "HyperRider45",
+        "avatar": "🤖",
+        "score": 957,
+        "rank": 4,
+        "prevRank": 66,
+        "streak": 1,
+        "lastPointsEarned": 957,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_60_izht0",
+        "nickname": "QuantumAce95",
+        "avatar": "🦁",
+        "score": 955,
+        "rank": 5,
+        "prevRank": 61,
+        "streak": 1,
+        "lastPointsEarned": 955,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_459_ak7ty",
+        "nickname": "PixelTitan24",
+        "avatar": "👾",
+        "score": 955,
+        "rank": 6,
+        "prevRank": 460,
+        "streak": 1,
+        "lastPointsEarned": 955,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_148_ixfst",
+        "nickname": "TurboTitan32",
+        "avatar": "⚡",
+        "score": 954,
+        "rank": 7,
+        "prevRank": 149,
+        "streak": 1,
+        "lastPointsEarned": 954,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_301_f5x67",
+        "nickname": "TurboBot56",
+        "avatar": "🐼",
+        "score": 954,
+        "rank": 8,
+        "prevRank": 302,
+        "streak": 1,
+        "lastPointsEarned": 954,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_413_cfezr",
+        "nickname": "ZenithRider77",
+        "avatar": "🐼",
+        "score": 953,
+        "rank": 9,
+        "prevRank": 414,
+        "streak": 3,
+        "lastPointsEarned": 953,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_189_1q042",
+        "nickname": "NovaRider43",
+        "avatar": "🦁",
+        "score": 952,
+        "rank": 10,
+        "prevRank": 190,
+        "streak": 1,
+        "lastPointsEarned": 952,
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "roomCode": "Q-HB9G",
+    "quizTitle": "Code & Tech Titans: AI, Computing & Innovation",
+    "phase": "leaderboard",
+    "currentQuestionIndex": 0,
+    "playersCount": 500,
+    "answersCount": 191,
+    "savedAt": 1792148103603,
+    "reason": "leaderboard_question_1",
+    "topLeaderboard": [
+      {
+        "id": "bot_1792148089097_228_njszy",
+        "nickname": "NovaByte66",
+        "avatar": "🐼",
+        "score": 960,
+        "rank": 1,
+        "prevRank": 1,
+        "streak": 1,
+        "lastPointsEarned": 960,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_348_d0eas",
+        "nickname": "HyperSpark33",
+        "avatar": "🦉",
+        "score": 959,
+        "rank": 2,
+        "prevRank": 2,
+        "streak": 3,
+        "lastPointsEarned": 959,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_374_txe1n",
+        "nickname": "QuantumByte28",
+        "avatar": "⚡",
+        "score": 958,
+        "rank": 3,
+        "prevRank": 3,
+        "streak": 2,
+        "lastPointsEarned": 958,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_65_9f3qx",
+        "nickname": "HyperRider45",
+        "avatar": "🤖",
+        "score": 957,
+        "rank": 4,
+        "prevRank": 4,
+        "streak": 1,
+        "lastPointsEarned": 957,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_60_izht0",
+        "nickname": "QuantumAce95",
+        "avatar": "🦁",
+        "score": 955,
+        "rank": 5,
+        "prevRank": 5,
+        "streak": 1,
+        "lastPointsEarned": 955,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_459_ak7ty",
+        "nickname": "PixelTitan24",
+        "avatar": "👾",
+        "score": 955,
+        "rank": 6,
+        "prevRank": 6,
+        "streak": 1,
+        "lastPointsEarned": 955,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_148_ixfst",
+        "nickname": "TurboTitan32",
+        "avatar": "⚡",
+        "score": 954,
+        "rank": 7,
+        "prevRank": 7,
+        "streak": 1,
+        "lastPointsEarned": 954,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_301_f5x67",
+        "nickname": "TurboBot56",
+        "avatar": "🐼",
+        "score": 954,
+        "rank": 8,
+        "prevRank": 8,
+        "streak": 1,
+        "lastPointsEarned": 954,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_413_cfezr",
+        "nickname": "ZenithRider77",
+        "avatar": "🐼",
+        "score": 953,
+        "rank": 9,
+        "prevRank": 9,
+        "streak": 3,
+        "lastPointsEarned": 953,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_189_1q042",
+        "nickname": "NovaRider43",
+        "avatar": "🦁",
+        "score": 952,
+        "rank": 10,
+        "prevRank": 10,
+        "streak": 1,
+        "lastPointsEarned": 952,
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "roomCode": "Q-HB9G",
+    "quizTitle": "Code & Tech Titans: AI, Computing & Innovation",
+    "phase": "leaderboard",
+    "currentQuestionIndex": 0,
+    "playersCount": 500,
+    "answersCount": 191,
+    "savedAt": 1792148105341,
+    "reason": "periodic_active_ticker",
+    "topLeaderboard": [
+      {
+        "id": "bot_1792148089097_228_njszy",
+        "nickname": "NovaByte66",
+        "avatar": "🐼",
+        "score": 960,
+        "rank": 1,
+        "prevRank": 1,
+        "streak": 1,
+        "lastPointsEarned": 960,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_348_d0eas",
+        "nickname": "HyperSpark33",
+        "avatar": "🦉",
+        "score": 959,
+        "rank": 2,
+        "prevRank": 2,
+        "streak": 3,
+        "lastPointsEarned": 959,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_374_txe1n",
+        "nickname": "QuantumByte28",
+        "avatar": "⚡",
+        "score": 958,
+        "rank": 3,
+        "prevRank": 3,
+        "streak": 2,
+        "lastPointsEarned": 958,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_65_9f3qx",
+        "nickname": "HyperRider45",
+        "avatar": "🤖",
+        "score": 957,
+        "rank": 4,
+        "prevRank": 4,
+        "streak": 1,
+        "lastPointsEarned": 957,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_60_izht0",
+        "nickname": "QuantumAce95",
+        "avatar": "🦁",
+        "score": 955,
+        "rank": 5,
+        "prevRank": 5,
+        "streak": 1,
+        "lastPointsEarned": 955,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_459_ak7ty",
+        "nickname": "PixelTitan24",
+        "avatar": "👾",
+        "score": 955,
+        "rank": 6,
+        "prevRank": 6,
+        "streak": 1,
+        "lastPointsEarned": 955,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089096_148_ixfst",
+        "nickname": "TurboTitan32",
+        "avatar": "⚡",
+        "score": 954,
+        "rank": 7,
+        "prevRank": 7,
+        "streak": 1,
+        "lastPointsEarned": 954,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_301_f5x67",
+        "nickname": "TurboBot56",
+        "avatar": "🐼",
+        "score": 954,
+        "rank": 8,
+        "prevRank": 8,
+        "streak": 1,
+        "lastPointsEarned": 954,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_413_cfezr",
+        "nickname": "ZenithRider77",
+        "avatar": "🐼",
+        "score": 953,
+        "rank": 9,
+        "prevRank": 9,
+        "streak": 3,
+        "lastPointsEarned": 953,
+        "isCorrect": true
+      },
+      {
+        "id": "bot_1792148089097_189_1q042",
+        "nickname": "NovaRider43",
+        "avatar": "🦁",
+        "score": 952,
+        "rank": 10,
+        "prevRank": 10,
+        "streak": 1,
+        "lastPointsEarned": 952,
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "roomCode": "VP26KZ",
+    "quizTitle": "Viplava 2026 – Main Quiz",
+    "phase": "lobby",
+    "currentRoundIndex": 0,
+    "currentQuestionIndex": 0,
+    "participantsCount": 0,
+    "answersCount": 0,
+    "buzzerWinner": null,
+    "savedAt": 1792237666454,
+    "reason": "room_created",
+    "topLeaderboard": []
+  },
+  {
+    "roomCode": "VP26E9",
+    "quizTitle": "Viplava 2026 – Main Quiz",
+    "phase": "lobby",
+    "currentRoundIndex": 0,
+    "currentQuestionIndex": 0,
+    "participantsCount": 0,
+    "answersCount": 0,
+    "buzzerWinner": null,
+    "savedAt": 1792237693902,
+    "reason": "room_created",
+    "topLeaderboard": []
+  }
+]
